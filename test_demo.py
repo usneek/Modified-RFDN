@@ -5,7 +5,7 @@ import torch
 
 from utils import utils_logger
 from utils import utils_image as util
-from models.m-RFDN import m_RFDN
+from models.m_RFDN import m_RFDN
 
 
 def main():
