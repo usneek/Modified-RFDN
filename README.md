@@ -26,11 +26,8 @@ Jointly with NTIRE workshop we have a challenge on Efficient Super-Resolution, t
 
 Run [test_demo.py](test_demo.py) to test the model
 
-## How to use the code during test phase.
-
-1. `git clone https://github.com/ofsoundof/IMDN`
-2. Put your model script under the `models` folder.
-3. Put your pretrained model under the `model_zoo` folder.
-4. Modify `model_path` in `test_demo.py`. Modify
-the imported models.
-5. `python test_demo.py`
+## How to use the code for execution
+You can run the above code in just 2 steps:-
+1. Use the command " git clone 'https://github.com/usneek/Modified-RFDN.git' " to clone the repository.
+2. Change your directory to Modified-RFDN using the cd command.
+3. Run the test file using the command 'python test_demo.py'
